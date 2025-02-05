@@ -3,5 +3,7 @@
 ## You wake up to another day of school, you have thoughts of skipping, or just attending the school normally. What would you do?
 
 Click [here](morning.md) to begin.
+
 Click [here](cyoa-diagram.png) to view the diagram of this CYOA.
+
 Made by [Jintian G.](https://github.com/jintiang9079) and [Ronnie H.](https://github.com/ronnieh6918).
