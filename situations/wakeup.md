@@ -5,5 +5,4 @@ You decided to wake up and..
 
 [Nevermind, stay in bed](bed.md)
 
-[Quit story](../morning.md)
 
