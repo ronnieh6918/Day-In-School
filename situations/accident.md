@@ -1,4 +1,4 @@
 # Accident
 You decided to cross the road. Suddenly, you felt a sharp pain then you felt like the world was shaking and finally you blackened out. Ultimately, on your final moments, you heard the sound of ambulance rushing to the scene. What a horrible ending to school...
 
-[Wake up](../morning.md)
+[Wake up](../wakeup.md)
