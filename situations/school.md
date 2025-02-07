@@ -3,4 +3,6 @@ You're preparing to get ready for school. What transportation should you take to
 
 [Take the train](trainstation.md)
 
+[Take the bus](bus.md)
+
 [Walk to school](traffic.md)
