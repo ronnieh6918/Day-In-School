@@ -1,8 +1,8 @@
-# Day-In-School
+<h1>Day-In-School</h1>
 
-## You wake up to another day of school, you have thoughts of skipping, or just attending the school normally. What would you do?
+<h2> You wake up to another day of school, you have thoughts of skipping, or just attending the school normally. What would you do? </h2>
 
-Click [here](morning.html) to begin.
+<p>Click<a href="morning.html">here</a> to begin.</p>
 
 Click [here](cyoa-diagram.png) to view the diagram of this CYOA.
 
