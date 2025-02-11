@@ -4,6 +4,6 @@
 
 <p>Click<a href="morning.html">here</a> to begin.</p>
 
-Click [here](cyoa-diagram.png) to view the diagram of this CYOA.
+<p>Click<a href="cyoa-diagram.png">here</a> to view the diagram of this CYOA.</p>
 
-Made by [Jintian G.](https://github.com/jintiang9079) and [Ronnie H.](https://github.com/ronnieh6918).
+<p>Made by [Jintian G.](https://github.com/jintiang9079) and [Ronnie H.](https://github.com/ronnieh6918).</p>
