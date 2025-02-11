@@ -1,5 +1,5 @@
-# Morning
-The morning arrives... It's time to go to school sadly.
+<h1>Morning</h1>
+<p>The morning arrives... It's time to go to school sadly.</p>
 
 <a href="situations/wakeup.html">Wake up</a>
 
