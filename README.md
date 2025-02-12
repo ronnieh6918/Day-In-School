@@ -4,6 +4,6 @@ You wake up to another day of school, you have thoughts of skipping, or just att
 
 [Click here to begin.](https://ronnieh6918.github.io/Day-In-School/morning.html)
 
-[Click here to see the drafting plan of this CYOA.](https://ronnieh6918/github.io/Day-In-School/cyoa-diagram.png)
+[Click here to see the drafting plan of this CYOA.](cyoa-diagram.png)
 
 Made by [Jintian G.](https://github.com/jintiang9079) and [Ronnie H.](https://github.com/ronnieh6918).
