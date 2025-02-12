@@ -1,3 +1,13 @@
 body{
     background: linear-gradient(orange, yellow)
 }
+p{
+    font-family: font-family: "Gill Sans", sans-serif;
+}
+
+h1{
+    font-family: "Gill Sans", sans-serif;
+}
+a{
+    font-family: "Gill Sans", sans-serif;
+}
